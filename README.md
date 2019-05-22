@@ -4,4 +4,5 @@ Calculating the probability of developing cancer given user's age and duration o
 Launch the app from R studio by running the following commands:
 
 library(shiny)
+
 runGitHub("Cancer-Calculations", "katjavaljavec")
